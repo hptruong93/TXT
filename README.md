@@ -18,6 +18,7 @@ TXT tour
 ##### Tree & binary tree
 1. Trees
 2. Tree traversal
+
 ##### Heap
 ##### Stack
 ##### Queue
@@ -29,6 +30,7 @@ TXT tour
 1. Array
 2. Linked list
 3. Binary tree
+
 ##### Sort
 1. Bubble sort
 2. Merge sort
