@@ -9,6 +9,7 @@ TXT tour
 5. Other types of runtime measurements:
 	* Small o notation
 	* Big Theta notation
+
 #### Second: Basic collections data structures
 ##### Array
 ##### Linked list
