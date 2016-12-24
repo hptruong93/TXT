@@ -1,6 +1,8 @@
 # TXT
 TXT tour
 
+[Google docs](https://docs.google.com/document/d/15d_YYjJ6uQW6KhEzQNv3m9dsyX9OUUNqlJAHybkqJdM/edit)
+
 #### First: Asymptotic analysis - Big O notation
 1. Motivation
 2. Definition
