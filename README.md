@@ -2,6 +2,7 @@
 TXT tour
 
 [Google docs](https://docs.google.com/document/d/15d_YYjJ6uQW6KhEzQNv3m9dsyX9OUUNqlJAHybkqJdM/edit)
+[Online python](http://ideone.com/)
 
 #### First: Asymptotic analysis - Big O notation
 1. Motivation
