@@ -19,6 +19,7 @@ TXT tour
 ##### Linked list
 1. Singly linked list (usually called linked list)
 2. Doubly linked list
+
 ##### Tree & binary tree
 1. Trees
 2. Tree traversal
