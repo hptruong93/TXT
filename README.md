@@ -51,8 +51,10 @@ TXT tour
 #### Fifth: Recusion
 #### Sixth: Object oriented programming
 1. Class
-2. Inheritance
-3. Polymorphism
+2. Encapsulation
+3. Abstraction
+4. Inheritance
+5. Polymorphism
 
 #### Seventh: Boolean logic
 
