@@ -54,7 +54,11 @@ TXT tour
 2. Inheritance
 3. Polymorphism
 
-#### Seventh: Threading
+#### Seventh: Boolean logic
+
+#### Eighth: Regular expression
+
+#### Nineth: Threading
 1. Parallelism
 2. Why we need locks
 3. Mutex locks
