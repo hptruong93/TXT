@@ -13,15 +13,45 @@ nums = ("không","một","hai","ba","bốn","năm","sáu","bảy","tám","chín"
 cols = ("tỉ","trăm","mươi","triệu","trăm","mươi","nghìn","trăm","mươi","")
 
 
-for input in range (0,21):
+for input in range (1000001,1000002):
+    
+    str_input = str(input)
+        result = []
+            for i in range(1,len(str_input)+1):
+                a=nums[int(str_input[-i])]+ " " + cols[-i]
+                    if a == "một mươi":
+                        a = "mười"
+                            if a == "không mươi":
+                                a = "lẻ"
+                                    
+                                    if "mươi" in a:
+                                        result[-1] = result[-1].replace("một","mốt")
+                                            result[-1] = result[-1].replace("năm","lăm")
+                                                
+                                                #print(result[-1])
+                                                
+                                                
+                                                elif a in ["không nghìn","không triệu", "không tỉ"]:
+                                                    a = a.replace( "không ", "")
+                                                        
+                                                        result.append(a)
+                                                            if i > 1:
+                                                                if result[1] != "":
+                                                                    if result[0] == "không ":
+                                                                        result[0] = ""
+                                                                            if 654 == 0:
+                                                                                nghin -> x
+                                                                                    if nghin ko co:
+                                                                                        tram -> x 
+                                                                                            if tram ko co:
+                                                                                                le -> bo 
+                                                                                                    
+                                                                                                    #print(result)
+                                                                                                    
+                                                                                                    print(result)
+# result.reverse()
+# print(" ".join(result))
 
- str_input = str(input)
- result = []
- for i in range(1,len(str_input)+1):
-   result.append(nums[int(str_input[-i])]+ " " + cols[-i])
- print(result)
- for 
- if result[-2]== 
 # result.reverse()
 # print(" ".join(result))
 
