@@ -56,7 +56,9 @@ def print_tree(root_node):
 #print_tree(root_node)
 
 
-
+# Reconstruct binary tree from inorder and postorder
+def reconstruct_tree(inorder_traversal, postorder_traversal):
+  return None
 
 def invert_binary_tree(root):
     if root == None:
